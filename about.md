@@ -100,8 +100,8 @@ Our society has won many achievements and awards, including:
 
 <div class="awards">
     <p class="emoji-bullet">🏆 Outstanding Contribution to Academic Experience (2022)</p>
-    <p class="emoji-bullet">🏆 The Great Achievement in EPS, Tom Goodman, CSS Secretary (2020)</p>
-    <p class="emoji-bullet">🏆 Community Award, Tom Goodman, CSS President (2019)</p>
+    <p class="emoji-bullet">🏆 The Great Achievement in EPS (2020)</p>
+    <p class="emoji-bullet">🏆 Community Award (2019)</p>
     <p class="emoji-bullet">🏆 Society of the Year (2017)</p>
     <p class="emoji-bullet">🏆 Outstanding Event Award for HackTheMidlands (2017)</p>
     <p class="emoji-bullet">🏆 Outstanding Event Award for Women In Technology Conference (2017)</p>
